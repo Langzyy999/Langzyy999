@@ -11,7 +11,7 @@ ___WELCOME TO MY PROFILE___</br>
 
 <br>
 <p align="center">
-<img src="__scr__/PRO.jpg"/>
+<img src="PRO.jpg"/>
 </p>
 
 <p align="center"> 
